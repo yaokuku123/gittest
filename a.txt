@@ -1,4 +1,4 @@
-hello world123
+hello world123 merge test 1
 hello git clone
 hi
 merge test 2
